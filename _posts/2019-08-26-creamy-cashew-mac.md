@@ -4,6 +4,8 @@ title: Creamy Cashew Mac and Cheese
 categories:
   - Pasta
   - Entrees
+tags:
+  - Recipe
 featured_image: https://lh3.googleusercontent.com/efCCOCA06AtITSBfjjD5kxJTpblJ3tWMiOs7pffHuIeDaE94STNI3KB4hix4uxp5P4WbuLRK3DedVIHfGlCQDYeI9T5BNX73-MKtH6PDVRJSZ0m5KyCIGYdYf9tQ6cHeZkE39ZA6=w2400
 recipe:
   servings: 3-4

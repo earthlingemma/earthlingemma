@@ -7,14 +7,15 @@ image_view: true
 
 
 {% if page.image_view %}
-	{% for category in site.categories %}
-		<h2>{{ category[0] }}</h2>
-		<div class="recipes">
-			{% for recipe in category[1] %}
-				<div class="recipe" style="background-image: url('{{ recipe.featured_image }}')">
-					<a href="{{ site.baseurl }}{{ recipe.url }}"><span>{{ recipe.title }}</span></a>
-				</div>
-			{% endfor %}
-		</div>
+	{% for post in site.tags %}
+		{% if post contains 'Recipe' %}
+			<div class="recipes">
+				{% for recipe in post[1] %}
+					<div class="recipe" style="background-image: url('{{ recipe.featured_image }}')">
+						<a href="{{ site.baseurl }}{{ recipe.url }}"><span>{{ recipe.title }}</span></a>
+					</div>
+				{% endfor %}
+			</div>
+		{% endif %}
 	{% endfor %}
 {% endif %}

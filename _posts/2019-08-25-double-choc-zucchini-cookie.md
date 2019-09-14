@@ -6,6 +6,8 @@ categories:
   - Desserts
   - Muffins
   - Scones
+tags:
+  - Recipe
 featured_image: https://lh3.googleusercontent.com/WBVPk1lvTca9x8tgeNSBaPezZFNx3apIV2uyvCTRrR2Lx9olOckR9sk8Kfl740jj4c71XyPBOZggz0yOENPZ9rIhjQae6-7TFSGnPrPiUYpVU-iRcYVkmYLnXjH_HSzAiDyVulBklJM=w2400
 recipe:
   servings: about 10 cookies
