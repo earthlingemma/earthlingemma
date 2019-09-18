@@ -44,14 +44,4 @@ recipe:
 ---
 This mac and cheese is my go-to dish when I'm craving the ultimate comfort food (or anytime really). We eat this on an almost weekly basis in my house and since it's full of veggies and healthy fats, that's A-OK.
 
-![Cookie](https://source.unsplash.com/euGck1ifvp0)
-
-Carefully placing them on the tray.
-
-![Cookie](https://source.unsplash.com/RUPPakds28k)
-
-Little Gavin loves them.
-
-![Cookie](https://source.unsplash.com/YnrSLOAjOEA)
-
 Delicious!
