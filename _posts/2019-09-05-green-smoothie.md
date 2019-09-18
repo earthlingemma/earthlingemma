@@ -1,10 +1,13 @@
 ---
 date: 2019-09-05
-title: How to Make the Perfect Green Smoothie
+title: Magically Refreshing Green Smoothie
 categories:
   - Smoothies
   - Breakfast
   - Drinks
+tags:
+- Recipe
+
 featured_image: https://lh3.googleusercontent.com/jKFYL_zYR4YeC47RsN1uXWMpJiTW1Ua7trqtKMw3pcpgbWlpKA3xnWSztMyU2bgzvVEZwbnke1ciTMMG74Woa2KWenriFIy_xSsHfvoBc9bLR1AtlZUGnkjToHR6EulGgzTli_x_miw=w2400 
 
 recipe:
