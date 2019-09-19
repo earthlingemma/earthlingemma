@@ -1,6 +1,6 @@
 ---
 date: 2019-09-02
-title: How I Went From Ice Cream Addict to Herbivore
+title: From Ice Cream Addict to Herbivore
 featured_image: https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2017/11/04133712/waterfall-1024x683.jpg
 categories: 
 

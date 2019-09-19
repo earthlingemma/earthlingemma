@@ -13,8 +13,8 @@ recipe:
   cook: 30 minutes
   ingredients_markdown: |-
     * 1 box of pasta of your choice
-    * 3/4 cup chopped sweet potato (or sub carrots)
-    * 1 cup chopped potato
+    * 1 1/2 cup chopped sweet potato (or sub carrots)
+    * 1 1/2 cup chopped potato
     * 1/3 cup cashews (or sub almonds)
     * 1/2 cup coconut milk
     * 1/4 cup nutritional yeast
@@ -42,6 +42,8 @@ recipe:
 
     6. Mix in pasta and vegan cheese shreds if desired.
 ---
-This mac and cheese is my go-to dish when I'm craving the ultimate comfort food (or anytime really). We eat this on an almost weekly basis in my house and since it's full of veggies and healthy fats, that's A-OK.
+This mac and cheese is my go-to dish when I'm craving the ultimate comfort food (or anytime really). We eat this on an almost weekly basis in my house and since it's full of veggies and healthy fats, that's A-OK. 
+
+This cheese sauce is so versatile! You can bake your mac and cheese in the oven topped with breadcrumbs and vegan cheese. Or you can spice up the sauce to make a creamy queso for nachos or tacos. The possibilities are endless!
 
 Delicious!
