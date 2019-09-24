@@ -27,7 +27,7 @@ recipe:
     * 1/4 tsp salt
     * 1/2 tsp curry powder
 
-    ### For Vegan Feta: (Original recipe can be found here**)
+    ### For Vegan Feta: (Original recipe can be found [here](http://itstodiefor.ca/the-best-tofu-feta-ever-hands-down/) )
     * 12 oz firm tofu (one block)
     * 5 oz refined coconut oil (melted)
     * 1 fl oz lemon juice
@@ -56,6 +56,8 @@ recipe:
 ---
 Early fall is known as the season of bountiful harvest. Time to raid your farmers market for ripe, end of season fruits and veggies! In this salad, pomegranates, sweet potato, and pepitas come together over a bed of dark greens. Topped with a warming curry vinaigrette and tangy homemade feta, this fall-inspired salad is the perfect dish for those last few summery days or the cool and crisp weather of autumn.
 
-The sweetness of the sweet potato and pomegranate contrast so nicely with curry spices and feta. I got the feta recipe from Erin Ireland's website (http://itstodiefor.ca/the-best-tofu-feta-ever-hands-down/) and she got it from Virtuous Pie, which happens to be one of my favorite vegan restaurants in Portland, OR. I was sold before I even tried it, but MY GOD, this cheese is good. It seriously rivals the real thing. I even used unrefined coconut oil, which gives it a slight coconut taste, but I didn't mind at all.
+![salad](https://lh3.googleusercontent.com/W-mHAZqgYXzqeTzzXPERvj2BPcOhm-_XcQRjwDEcYIvuIXvAGNPQFxAMcf4ycepXIDFWbGi88jrXJUeyncoOW8UaekjPDuMU9m9Jsm9clgiUdG_j7VJhe4joB2Rfax1wf5-6vZti0eU=w2400) 
 
-Give this salad a try and let me know what you think! I think crispy roasted brussel sprouts would be so good on top too. A nice slice of toasted sourdough bread or a warm bed of quinoa would be the perfect addition to take this salad into the cooler months. 
+The sweetness of the sweet potato and pomegranate contrast so nicely with curry spices and feta. I got the feta recipe from [Erin Ireland's website](http://itstodiefor.ca/the-best-tofu-feta-ever-hands-down/) and she got it from Virtuous Pie, which happens to be one of my favorite vegan restaurants in Portland, OR. I was sold before I even tried it, but MY GOD, this cheese is good. It seriously rivals the real thing. I even used unrefined coconut oil, which gives it a slight coconut taste, but I didn't mind at all.
+
+Give this salad a try and let me know what you think! I think crispy roasted brussel sprouts, a nice slice of toasted sourdough bread, or a warm bed of quinoa would be the perfect addition to take this salad into the cooler months. 

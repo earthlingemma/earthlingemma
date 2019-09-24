@@ -8,14 +8,14 @@ tags:
   - Recipe
 featured_image: https://lh3.googleusercontent.com/efCCOCA06AtITSBfjjD5kxJTpblJ3tWMiOs7pffHuIeDaE94STNI3KB4hix4uxp5P4WbuLRK3DedVIHfGlCQDYeI9T5BNX73-MKtH6PDVRJSZ0m5KyCIGYdYf9tQ6cHeZkE39ZA6=w2400
 recipe:
-  servings: 3-4
+  servings: 6
   prep: 15 minutes
   cook: 30 minutes
   ingredients_markdown: |-
-    * 1 box of pasta of your choice
+    * 1 1/2 box of pasta of your choice
     * 1 1/2 cup chopped sweet potato (or sub carrots)
     * 1 1/2 cup chopped potato
-    * 1/3 cup cashews (or sub almonds)
+    * 1/2 cup cashews (or sub almonds)
     * 1/2 cup coconut milk
     * 1/4 cup nutritional yeast
     * 2 cloves garlic
@@ -25,8 +25,8 @@ recipe:
     * 3 tbsp olive oil (or sub vegan butter)
     * 1 tsp onion powder
     * salt & pepper to taste    
-    * 1 tbsp tamari or liquid aminos (optional)
-    * 1 tbsp mustard (optional)
+    * 2 tsp tamari or liquid aminos (optional)
+    * 2 tsp mustard (optional)
     * paprika, cayenne, or other spices to taste (optional)
     * vegan cheese shreds (optional)
   directions_markdown:
