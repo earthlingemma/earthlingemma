@@ -25,7 +25,10 @@ recipe:
     * 2 tbsp olive oil
     * 1 tbsp balsamic vinegar
     * 1/4 tsp salt
-    * 1/2 tsp curry powder
+    * 1/4 tsp curry powder
+    * 1/4 tsp onion powder
+    * generous amount of black pepper
+
 
     ### For Vegan Feta: (Original recipe can be found [here](http://itstodiefor.ca/the-best-tofu-feta-ever-hands-down/) )
     * 12 oz firm tofu (one block)

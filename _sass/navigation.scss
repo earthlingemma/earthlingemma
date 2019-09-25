@@ -6,6 +6,7 @@ nav {
 	background: rgba(255, 255, 255, .9);
 	z-index: 999;
 
+	
 	a {
 		display: inline-block;
 		text-decoration: none;
@@ -14,6 +15,11 @@ nav {
 		text-transform: uppercase;
 		letter-spacing: 1px;
 		font-size: .9em;
+
+		@media #{$phone} {
+			padding: 20px 10px;
+			font-size: .8em;
+		}
 
 		&.active {
 			color: #888;
