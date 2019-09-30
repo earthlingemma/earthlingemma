@@ -43,4 +43,4 @@ recipe:
     6. Bake for 10 to 12 minutes or until firm on the outside.
 
 ---
-What's the only thing better than double chocolate cookies? Double chocolate cookies with vegetables in them! Soft and fudgy and not too sweet, these cookie/muffin hybrids make a delicious afternoon snack, indulgent breakfast, or a satisfying after dinner treat.
+What's the only thing better than double chocolate cookies? Double chocolate cookies with vegetables in them! Soft and fudgy and not too sweet, these vegan cookie/muffin hybrids make a delicious afternoon snack, indulgent breakfast, or a satisfying after dinner treat.

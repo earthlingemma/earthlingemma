@@ -1,6 +1,6 @@
 ---
 date: 2019-09-02
-title: From Ice Cream Addict to Herbivore
+title: My Vegan Journey
 featured_image: https://lh3.googleusercontent.com/ZYq41c-GcoT0d2AjmRv3t3NEQSGs8xCKeGWrxKTPc79AXAbuXJ5jAa5sraCkAzzPpCWNvXgeVVxReAKXI3x7vkjBuoM-tbCeUmBM26EK7Jk15eByUoaxH4QsCY9U_6Q2k8HL0-lSaMM=w2400  
 categories: 
 

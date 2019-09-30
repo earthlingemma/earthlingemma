@@ -42,7 +42,7 @@ recipe:
 
     6. Mix in pasta and vegan cheese shreds if desired.
 ---
-This mac and cheese is my go-to dish when I'm craving the ultimate comfort food (or anytime really). We eat this on an almost weekly basis in my house and since it's full of veggies and healthy fats, that's A-OK. 
+This vegan mac and cheese is my go-to dish when I'm craving the ultimate comfort food (or anytime really). We eat this on an almost weekly basis in my house and since it's full of veggies and healthy fats, that's A-OK. 
 
 This cheese sauce is so versatile! You can bake your mac and cheese in the oven topped with breadcrumbs and vegan cheese. Or you can spice up the sauce to make a creamy queso for nachos or tacos. The possibilities are endless!
 
