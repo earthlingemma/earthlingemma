@@ -9,8 +9,8 @@ tags:
 featured_image: https://lh3.googleusercontent.com/wTn4wzx-2V9VNja70D86Y2apBLiY7AbkmiQPIQ2CxMBqsygYoDin8wLAykFGJKvDRPytL09sgELkHC9H29mRDEtPT-UiwBTdF4-WInBcyMbjJficZ6_VXUM7P7NuWpUvovT2qX5fi5s=w2400 
 recipe:
   servings: 1
-  prep time: 15 minutes
-  cook time: 20 min
+  prep: 15 minutes
+  cook: 20 min
   ingredients_markdown: |-
     ### For Salad:
     * 1 sweet potato, chopped

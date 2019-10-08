@@ -9,8 +9,8 @@ tags:
 featured_image: https://lh3.googleusercontent.com/efCCOCA06AtITSBfjjD5kxJTpblJ3tWMiOs7pffHuIeDaE94STNI3KB4hix4uxp5P4WbuLRK3DedVIHfGlCQDYeI9T5BNX73-MKtH6PDVRJSZ0m5KyCIGYdYf9tQ6cHeZkE39ZA6=w2400
 recipe:
   servings: 6
-  prep time: 15 minutes
-  cook time: 30 minutes
+  prep: 15 minutes
+  cook: 30 minutes
   ingredients_markdown: |-
     * 1 1/2 box of pasta of your choice
     * 1 1/2 cup chopped sweet potato (or sub carrots)

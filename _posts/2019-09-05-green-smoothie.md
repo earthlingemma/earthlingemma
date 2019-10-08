@@ -12,7 +12,7 @@ featured_image: https://lh3.googleusercontent.com/GwY__1dBO1d3vlJLmaONuBTzLNeaP6
 
 recipe:
   servings: 1 serving
-  prep time: 5 minutes
+  prep: 5 minutes
   ingredients_markdown: |-
     * 3-5 kale leaves
     * 1/3 cup coconut milk
