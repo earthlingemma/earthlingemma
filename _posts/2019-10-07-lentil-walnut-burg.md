@@ -1,10 +1,11 @@
 ---
 date: 2019-10-07
-title: Lentil Walnut Burger
+title: Savory Lentil Walnut Burger 
 categories:
   - Burgers
   - Entrees
   - Sandwiches
+  - Gluten-Free
 tags:
   - Recipe
 featured_image: https://lh3.googleusercontent.com/NXtvT4-UlJ3uWGPwCdxqeh-vVJOC4UzJcWhdERXDnfXEI_OTHpdSLOc5NmnV7DBIXsvDAK2Z6jFJxI86026PSRNPPZQ2RfwoGE5PJgw2V587JFaIc2a9nxXkwbJwAH7DXY_vA_dcCPI=w2400 
@@ -27,7 +28,7 @@ recipe:
 * 1/4 tsp salt
 * freshly cracked black pepper
 * 1 tsp liquid smoke
-* 1 tbsp nooch 
+* 1 tbsp nutritional yeast 
 * 1 tbsp ketchup or tomato paste + syrup
 * 2 tbsp flax seed
 * ¾ cup oats
@@ -49,11 +50,14 @@ recipe:
 
     Note:
     * The burger mixture may seem too wet when you put it in the fridge, but the moisture will absorb as it sits. You can add more oat flour if needed when it comes out, but be careful not too add too much flour or they will become very dry when cooked.
-    * 
     
 ---
-Who doesn't love a good burger? These protein-packed patties are healthy and full of flavor, making them perfect for cookouts or weekday meal add-ons. Top them with your favorite burger toppings or put them on a salad 
+Who doesn't love a good burger? These protein-packed patties are healthy and full of flavor, making them perfect for cookouts or weekday meal add-ons. They are hearty, fabulously textured, and perfectly umami, giving store-bought vegan burgers a run for their money. 
 
 ![burger](https://lh3.googleusercontent.com/DEqXx22--i7EBmi2RXGM3nTyFH4xSnuRuJNt4pzKYlsYet8MYrpSVoAq_kC2Csk8KeYfekpy1D48Oq_Z2p0OHrquBv45ktgQ80CTVK36f9l4yBH8fXVpVy7Ww_t3fQHHxKThRxKpvGo=w2400)
 
 ![burger](https://lh3.googleusercontent.com/hLEjIVaBQ9TFLM-AEcu6eKGXStkpINnVPpgJUK2NNfnx2c8jDCc7oVd9MJdPRFBZ6arLVOZUNv_NxTa4pGxulgqknrVWI9B6WANqbBEWFeoKyH5K4Ce_8IaDlQQgaTP4UEFt_MxpDqA=w2400)
+
+![burger](https://lh3.googleusercontent.com/vByb7MFWOXR0oSXnHUV8pv4PDrfg7mkaegOqVk9qd6jSmkMXwf-6TIeeioGcl-zthOLcPsZro5y-lVr_nyNo12BuzEMToYhm_PSXqUKvln-lOHQ_Q-vlCOFT_M-4UkSpK_WPilDzDBE=w2400)
+
+![burger](https://lh3.googleusercontent.com/NXtvT4-UlJ3uWGPwCdxqeh-vVJOC4UzJcWhdERXDnfXEI_OTHpdSLOc5NmnV7DBIXsvDAK2Z6jFJxI86026PSRNPPZQ2RfwoGE5PJgw2V587JFaIc2a9nxXkwbJwAH7DXY_vA_dcCPI=w2400)
