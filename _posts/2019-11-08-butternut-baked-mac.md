@@ -43,7 +43,7 @@ recipe:
 
     7. Cover with tin foil or a baking sheet and bake for about 20 minutes covered. Then remove cover and cook for another 8 to 10 minutes.
 
-   * To cook the butternut squash, I halve it and roast it face down on a parchment-paper line baking sheet at 375 for about 30-45 minutes, depending on size
+   Note: To cook the butternut squash, I halve it and roast it face down on a parchment-paper line baking sheet at 375 for about 30-45 minutes, depending on size
 ---
 I know what you're thinking. Another mac and cheese recipe? Trust me, guys. You need this in your life. A more autumnal take on the classic dairy-free mac, this version incorporates butternut squash and warming spices. It's topped with a crunchy, melty layer of breadcrumbs and vegan cheese, totally elevating its appearance and flavor. I'm not saying you should have mac and cheese on your Thanksgiving table...but if you do, it should be this one.
 
