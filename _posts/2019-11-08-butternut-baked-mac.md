@@ -31,28 +31,27 @@ recipe:
   directions_markdown:
     1. Boil water for pasta and cook according to package.
 
-    2. Preheat oven to 350 degrees. 
+    2. Preheat oven to 350 degrees.
 
     3. In a blender, combine all remaining ingredients except vegan cheese and breadcrumbs. Blend until smooth.
 
     4. Add 1/3 cup of vegan cheese into the sauce and blend a little more, not completely.
 
-    5. Mix sauce into pasta and transfer to a greased glass baking dish (8x10" works well)
+    5. Mix sauce into pasta and transfer to a greased glass baking dish (8x10" works well).
 
     6. Top with the remaining vegan cheese (a little over 1/2 cup) and breadcrumbs (I recommend breadcrumbs on top because they brown nicely, while the vegan cheese does not).
 
     7. Cover with tin foil or a baking sheet and bake for about 20 minutes covered. Then remove cover and cook for another 8 to 10 minutes.
 
-    Note:
-    * To cook the butternut squash, I halve it and place it on a parchment-paper lined baking sheet and cook at 375 for about 45 minutes or until soft all the way through. 
-
 ---
-I know what you're thinking. Another mac and cheese recipe? Trust me, guys. You need this in your life. A more autumnal take on the classic dairy-free mac, this version incorporates butternut squash and warming spices. It's topped with a crunchy, melty layer of breadcrumbs and vegan cheese, totally elevating its appearance and flavor. I'm not saying you should have mac and cheese on your Thanksgiving table...but if you do, it should be this one.
+I know what you're thinking. Another vegan mac and cheese recipe? Trust me, guys. You need this in your life. A more autumnal take on the classic dairy-free mac, this version incorporates butternut squash and warming spices. It's topped with a crunchy, melty layer of breadcrumbs and vegan cheese, totally elevating its appearance and flavor. I'm not saying you should have mac and cheese on your Thanksgiving table...but if you do, it should be this one.
 
 ![pasta](https://lh3.googleusercontent.com/VXl4ZUHX6Xobwb_-KVLQPMEronQQIVZjgetBZ_BRXkNmc1y_sq2MD43m0skwnGqFFetSsttQHTg-_-sNxyFXbT8cSL9SmsAnfGf79Lt1vNXqWWPSo-s0mTFQhaijkQ4Pv1Z7UIpjULw=w2400)
 
-Maybe it's just me, but I feel like butternut squash was made for mac and cheese. It gives the dish depth and slight sweetness that is seriously mouth-watering. With cashews for creaminess, nutritional yeast for cheesy-ness, and a medley of spices for zesty flavor, this baked goodness is sure to be a hit. I also sampled it before baking and if you're short on time, it's delicious as is. Give it a try and let me know what you think!
+Maybe it's just me, but I feel like butternut squash was made for mac and cheese. It gives the dish depth and slight sweetness that is seriously mouth-watering. With cashews for creaminess, nutritional yeast for cheesy-ness, and a medley of spices for zesty flavor, this baked goodness is sure to be a hit. I also sampled it before baking and if you're short on time, it's delicious as is. 
 
 ![pasta](https://lh3.googleusercontent.com/EyQUhbL0MEUyUe49-kMLmP7BSFjsqJoBETVAoX3ukXUyaGEq_D3qtv7V2r3eobOvoZx9WgODaCx64BRzoB_pQDwAXFgNH8o171htIr2PCqN_36woc46YCTTvGVFCpttaNJ0zrrSL6h4=w2400)
+
+To bake the butternut squash, I simply halve the squash and place it on a parchment-paper line baking sheet face down and bake at 375 for about 45 minutes or until completely soft. You can soak your cashews while you wait! I always soak mine for one hour with boiling water since I am very bad at planning and doing it the long way. If your blender is super high-powered, you may be able to skip soaking altogether. For the non-dairy milk, I used coconut milk diluted with a tiny bit of water. I think any plain, unsweetened milk would work great. You could also easily make it gluten-free by using gluten-free pasta and breadcrumbs.
 
 ![pasta](https://lh3.googleusercontent.com/BVcAWRp_f5x4d_yl-vjNK27XDpD65jFPO6qy5AhNEejLqylGOP3petABVojqKamj8m_Biv1xGwvaMl3G1o-_r7K8a_Y2l3PPHBP0JQ4vVfsBUbVwCo32nR_PhNwMD9ASFPw_bf8aMZw=w2400)
