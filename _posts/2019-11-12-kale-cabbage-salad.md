@@ -1,6 +1,6 @@
 ---
 date: 2019-11-12
-title: Cabbage n Kale Salad with Crispy Chickpeas
+title: Kale and Cabbage Salad with Crispy Chickpeas
 categories: 
   - Salads
   - Entrees
