@@ -35,7 +35,7 @@ recipe:
   directions_markdown: |-
     1. Heat oil in a saucepan over medium heat.
     2. Add garlic and onion and cook until onion is clear.
-    3. Add lentils and walnuts and sautee lightly.
+    3. Add lentils and walnuts and sauté lightly.
     4. Add the water and bring to a bowl. Then reduce heat to medium-low.
     5. Stir in miso paste, shredded zucchini, cumin, paprika, salt, and pepper. Cover and continue to cook on medium low until lentils are soft (about 15 minutes).
     6. In the meantime, process oats in a blender to create a coarse flour. Transfer to a bowl and set aside.
